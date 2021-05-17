@@ -8,3 +8,7 @@ def sum():
 
 def mul():
     return a*b
+
+
+def sub():
+    return a-b
